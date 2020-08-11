@@ -1,2 +1,2 @@
 # Placment_Preparation
-This Repository Contains Codes which will be helpfull for placement preparation
+This Repository Contains Simple Codes which will be helpfull for placement preparation
